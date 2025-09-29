@@ -1,6 +1,6 @@
 <h3 align="center">Software Engineer</h3>
 
-- 👨‍💻 Featured of my projects are available at [frederick-tetteh.com](frederick-tetteh.com)
+- 👨‍💻 Featured of my projects are available at [fredericktetteh.com](fredericktetteh.com)
 
 - 📫 How to reach me **frederick.otetteh@gmail.com**
 
